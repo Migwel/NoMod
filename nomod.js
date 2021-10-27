@@ -13,3 +13,5 @@ let notif_counts = alert_link.getElementsByClassName("notif-count");
 for (const notif_count of notif_counts) {
 	notif_count.style.display = "None";
 }
+
+//Test Pull Request
